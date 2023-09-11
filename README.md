@@ -1,2 +1,3 @@
-# ACM_Task_-K.Sai-Dinesh-
-this is the repository for thy acm tasks 2023
+Roll number:-AM.SC.U4CSE23130
+Linkedin ID:-sai-dinesh-kurakula-534788289
+Hackerrank ID:-saidinesh0084
